@@ -45,9 +45,7 @@ To run the client:
 3. Communicate with other users by typing messages in the client's GUI and pressing "Send".
 4. After texting, click the back button on the top left corner of the window to close the application.
 
-## Contributors:
-- Prakhar Srivastava 22051269
-- Ojas Dutt Tripathi 2205995
-- Aditya Sivomm Swain 22051311
+## Contributor:
+- Prakhar Srivastava 
 
 
